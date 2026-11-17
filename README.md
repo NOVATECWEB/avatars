@@ -41,5 +41,3 @@ Où coller l'URL :
 ## Crédits
 
 Icône de Stewart : « Butler », [IconScout](https://iconscout.com/icon/butler-icon_4121435).
-
-Icône d'Oscar : « technicien », source à préciser.
