@@ -30,6 +30,7 @@ l'avatar par défaut. Servie depuis ce dépôt en 512 px, elle s'affiche.
 | Fichier | Taille | Utilisé par |
 |---|---|---|
 | `stewart.png` | 512 × 512 | l'application Google Chat « Stewart » |
+| `oscar.png` | 512 × 512 | les webhooks Google Chat « Oscar » (« Alertes — Cobalt », « SRE — Alertes ») |
 
 Où coller l'URL :
 - **une application** : console Google Cloud › API Google Chat › onglet *Configuration* › champ
@@ -40,3 +41,5 @@ Où coller l'URL :
 ## Crédits
 
 Icône de Stewart : « Butler », [IconScout](https://iconscout.com/icon/butler-icon_4121435).
+
+Icône d'Oscar : « technicien », source à préciser.
